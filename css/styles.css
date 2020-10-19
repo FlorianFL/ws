@@ -63,7 +63,7 @@ a:hover {
 }
 
 .profilepicture {
-  width: 15%;
+  width: 15rem;
 }
 
 .bottom-container {
@@ -74,7 +74,7 @@ a:hover {
 .skill-row {
   width: 50%;
   /*left and right  auto; top and bottom = 100px*/
-  margin: 6.25rem auto 6.25rem auto;
+  margin: 100px auto 100px auto;
   text-align: left;
 }
 
